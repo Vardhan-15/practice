@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 from github version3
+=======
+Hello from local version2
+>>>>>>> 6882ed1 (add version2)
